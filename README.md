@@ -11,6 +11,7 @@ Hi there, I'm Saksham Jaiswal 👋
 - Postman
 - Pieces for Developers
 - Mongo shell
+- MongoDB Compass
 - Workbench (SQL)
 - Gitbash
 

@@ -15,6 +15,9 @@ Hi there, I'm Saksham Jaiswal 👋
 - Workbench (SQL)
 - Gitbash
 
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs&theme=radical)
+
 📫 Connect with Me
 - Linkedin - www.linkedin.com/in/saksham-jaiswal-220637302
 - Email - sakshamjaiswalofficial@gmail.com

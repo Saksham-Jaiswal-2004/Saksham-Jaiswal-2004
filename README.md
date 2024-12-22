@@ -1,4 +1,4 @@
-Hi there, I'm Saksham Jaiswal 👋
+#Hi there, I'm Saksham Jaiswal 👋
 
 - 🎓 Current Position: Computer Science B-Tech student at Indian Institute of Information Technology, Kalyani
 - 👀 I'm a passionate student currently focused on Full-Stack Web Development.
@@ -7,7 +7,7 @@ Hi there, I'm Saksham Jaiswal 👋
 
 ---
 
-💻 Tech Stack and Tools I use:
+#💻 Tech Stack and Tools I use:
 
 Languages: C, C++, Java, JavaScript, HTML5, CSS3, TypeScript, Python
 
@@ -29,18 +29,18 @@ Other Tools: VS Code, PyCharm, Docker (if applicable), Postman
 
 ---
 
-## 📊 GitHub Stats:
+# 📊 GitHub Stats:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saksham-Jaiswal-2004&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
-## 🏆 **GitHub Trophies:**
+# 🏆 **GitHub Trophies:**
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Saksham-Jaiswal-2004&theme=radical)
 
 ---
 
-📫 Connect with Me:
+#📫 Connect with Me:
 
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://sakshamjaiswal.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sakshamjaiswalofficial@gmail.com)

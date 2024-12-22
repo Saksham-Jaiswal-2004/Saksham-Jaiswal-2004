@@ -50,6 +50,16 @@ Other Tools: VS Code, PyCharm, Docker (if applicable), Postman
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@sakshamjaiswalofficial)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://hashnode.com/@sakshamjaiswal)
 
+---
+
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=Saksham-Jaiswal-2004&theme=github)
+
+![Your Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Saksham-Jaiswal-2004)
+
+![Commit Calendar](https://github.com/your-username/your-repository/blob/main/commit-calendar.svg)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saksham-Jaiswal-2004)
+
 <!---
 Saksham-Jaiswal-2004/Saksham-Jaiswal-2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -56,7 +56,7 @@ Other Tools: VS Code, PyCharm, Docker (if applicable), Postman
 
 ![Your Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Saksham-Jaiswal-2004)
 
-![Commit Calendar](https://github.com/your-username/your-repository/blob/main/commit-calendar.svg)
+![Commit Calendar](https://github.com/Saksham-Jaiswal-2004/your-repository/blob/main/commit-calendar.svg)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saksham-Jaiswal-2004)
 

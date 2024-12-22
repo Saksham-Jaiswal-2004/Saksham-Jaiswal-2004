@@ -17,6 +17,8 @@ Hi there, I'm Saksham Jaiswal 👋
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saksham-Jaiswal-2004&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Build Status](https://img.shields.io/github/workflow/status/your-username/your-repository/CI)
+
 
 📫 Connect with Me
 - Linkedin - www.linkedin.com/in/saksham-jaiswal-220637302

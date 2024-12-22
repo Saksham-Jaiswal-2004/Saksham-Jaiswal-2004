@@ -35,6 +35,11 @@ Other Tools: VS Code, PyCharm, Docker (if applicable), Postman
 
 ---
 
+## 🏆 **GitHub Trophies:**
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Saksham-Jaiswal-2004&theme=radical)
+
+---
+
 📫 Connect with Me:
 
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://sakshamjaiswal.netlify.app/)

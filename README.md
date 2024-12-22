@@ -33,6 +33,8 @@ Other Tools: VS Code, PyCharm, Docker (if applicable), Postman
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saksham-Jaiswal-2004&show_icons=true&count_private=true&hide=prs&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saksham-Jaiswal-2004&theme=github)
+
 ---
 
 # 🏆 **GitHub Trophies:**
@@ -49,16 +51,6 @@ Other Tools: VS Code, PyCharm, Docker (if applicable), Postman
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/saksham__jaiswal/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@sakshamjaiswalofficial)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://hashnode.com/@sakshamjaiswal)
-
----
-
-![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=Saksham-Jaiswal-2004&theme=github)
-
-![Your Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Saksham-Jaiswal-2004)
-
-![Commit Calendar](https://github.com/Saksham-Jaiswal-2004/your-repository/blob/main/commit-calendar.svg)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saksham-Jaiswal-2004)
 
 <!---
 Saksham-Jaiswal-2004/Saksham-Jaiswal-2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

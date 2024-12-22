@@ -16,7 +16,7 @@ Hi there, I'm Saksham Jaiswal 👋
 - Gitbash
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saksham-Jaiswal-2004&show_icons=true&count_private=true&hide=prs&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saksham-Jaiswal-2004&show_icons=true&count_private=true&hide=prs&theme=solarized-light)
 
 📫 Connect with Me
 - Linkedin - www.linkedin.com/in/saksham-jaiswal-220637302

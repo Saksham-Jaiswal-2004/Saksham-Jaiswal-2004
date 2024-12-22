@@ -8,14 +8,23 @@ Hi there, I'm Saksham Jaiswal 👋
 ---
 
 💻 Tech Stack and Tools I use:
+
 Languages: C, C++, Java, JavaScript, HTML5, CSS3, TypeScript, Python
+
 Frontend Development: React, Next.js, Tailwind CSS, HTML5, CSS3, React Icons
+
 Backend Development: Node.js, Express.js
+
 Databases: MongoDB, Firebase, MySQL
+
 Version Control: Git, GitHub
+
 Cloud & Hosting: Firebase, Netlify, Vercel
+
 Web Development Frameworks: Next.js, React
+
 APIs & Tools: Postman, Mongo Shell, Git Bash, Workbench (SQL), Pieces for Developers
+
 Other Tools: VS Code, PyCharm, Docker (if applicable), Postman
 
 ---

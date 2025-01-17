@@ -25,7 +25,7 @@ Web Development Frameworks: Next.js, React
 
 APIs & Tools: Postman, Mongo Shell, Git Bash, Workbench (SQL), Pieces for Developers
 
-Other Tools: VS Code, PyCharm, Docker (if applicable), Postman
+Other Tools: VS Code, PyCharm, Postman
 
 ---
 

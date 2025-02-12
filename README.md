@@ -33,6 +33,8 @@ Other Tools: VS Code, PyCharm, Postman
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saksham-Jaiswal-2004&show_icons=true&count_private=true&hide=prs&theme=radical)
 
+![](https://github-readme-stats.vercel.app/api?username=Saksham-Jaiswal-2004&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saksham-Jaiswal-2004&theme=radical) -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Saksham-Jaiswal-2004&theme=radical&hide_border=true)](https://git.io/streak-stats)

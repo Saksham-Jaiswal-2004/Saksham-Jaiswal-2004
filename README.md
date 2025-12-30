@@ -74,7 +74,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Saksham-Jaiswal-2004&theme=react&hide_border=true&background=0D1117&stroke=FF6F61&ring=00C4B4" height="150" alt="Streak" />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Saksham-Jaiswal-2004&theme=react&hide_border=true" alt="GitHub Streak" /></a>
   <br>
   <a href="https://github.com/Saksham-Jaiswal-2004/github-readme-stats"><img alt="Saksham-Jaiswal-2004 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Saksham-Jaiswal-2004&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Saksham-Jaiswal-2004/github-readme-stats"><img alt="Saksham-Jaiswal-2004 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham-Jaiswal-2004&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -87,7 +86,7 @@
 ---
 
 # 🏆 **GitHub Trophies:**
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Saksham-Jaiswal-2004&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Saksham-Jaiswal-2004&theme=dark)
 
 ---
 

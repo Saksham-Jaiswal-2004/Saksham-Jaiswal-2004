@@ -1,12 +1,17 @@
 <!-- Fixed Side Coder GIF -->
-<img align="right" alt="Coder GIF" width="240" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/>
+<img align="right" alt="Coder GIF" width="240" style="margin-top:80px;" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/>
 
 # Hi there, I'm Saksham Jaiswal 👋
 
-🎓 Computer Science B-Tech student at Indian Institute of Information Technology, Kalyani  
-💻 Focused on Full-Stack Web Development  
-🚀 Exploring Open Source, AI, Machine Learning & DSA  
-📫 Reach me via LinkedIn or Email below  
+🎓 B.Tech Computer Science Student at Indian Institute of Information Technology, Kalyani
+
+💻 Full-Stack Web Developer | Next.js, React, Firebase, Tailwind CSS
+
+🚀 Exploring Cloud Computing, DevOps, AI/ML, and Open Source
+
+🛠️ Building feature-rich projects, hackathon contributions, and scalable applications
+
+📫 Connect with me via LinkedIn or Email 
 
 ---
 

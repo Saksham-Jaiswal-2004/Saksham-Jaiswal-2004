@@ -104,4 +104,8 @@
 <a href="https://x.com/SakshamJais2004"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 <a href="https://www.instagram.com/saksham__jaiswal/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 <a href="https://medium.com/@sakshamjaiswalofficial"><img src="https://skillicons.dev/icons?i=medium" /></a>
+
+  <span align="right" width="full" justify="center">
+    <img src="https://komarev.com/ghpvc/?username=Saksham-Jaiswal-2004&label=Profile%20Views&color=0e75b6&style=for-the-badge&labelColor=0D1117"/>
+  </span>
 </p>

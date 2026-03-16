@@ -15,42 +15,44 @@
 
 ---
 
-## <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" width="28"/> Languages
+## <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" width="28"/> Tech Stack & Tools
+
+#### Languages
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,html,css" />
 </p>
 
-## <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" width="28"/> Frontend Development
+#### Frontend Development
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs" />
 </p>
 
-## <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" width="28"/> Backend Development
+#### Backend Development
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
 </p>
 
-## <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" width="28"/> Databases
+#### Databases
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" />
 </p>
 
-## <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" width="28"/> Cloud & DevOps
+#### Cloud & DevOps
 <p>
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,vercel,netlify,firebase" />
 </p>
 
-## <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" width="28"/> Version Control
+#### Version Control
 <p>
 <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
-## <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" width="28"/> APIs & Dev Tools
+#### APIs & Dev Tools
 <p>
 <img src="https://skillicons.dev/icons?i=postman,bash,mongodb,mysql" />
 </p>
 
-## <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" width="28"/> IDEs & Editors
+#### IDEs & Editors
 <p>
 <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea" />
 </p>

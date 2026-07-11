@@ -1,6 +1,3 @@
-<!-- Fixed Side Coder GIF -->
-<img align="right" alt="Coder GIF" width="240" style="margin-top:80px;" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/>
-
 # Hi there, I'm Saksham Jaiswal
 
 ### Full-Stack Developer building towards AI/ML & Agentic AI systems
@@ -17,7 +14,7 @@ I like turning ambiguous problems into working systems - from real-time apps wit
 
 ---
 
-## What I'm Focused On
+## <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" width="28"/> What I'm Focused On
 
 - **Building** production full-stack apps with Next.js, React, and Firebase - with real-time features via Socket.io and Redis-backed caching
 - **Learning** AI/ML fundamentals and applied Agentic AI - LLM orchestration, tool-using agents, and RAG pipelines
@@ -25,7 +22,7 @@ I like turning ambiguous problems into working systems - from real-time apps wit
 
 ---
 
-## Tech Stack & Tools
+## <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" width="28"/> Tech Stack & Tools
 
 #### Languages
 <p>
@@ -77,7 +74,7 @@ I like turning ambiguous problems into working systems - from real-time apps wit
 <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea" />
 </p>
 
-## GitHub Stats
+## <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" width="28"/> GitHub Stats
 
 <div align="center">
 
@@ -97,7 +94,7 @@ I like turning ambiguous problems into working systems - from real-time apps wit
 
 ---
 
-## GitHub Trophies
+## <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" width="28"/> GitHub Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Saksham-Jaiswal-2004&theme=darkhub&no-frame=true&margin-w=15" />
@@ -105,7 +102,7 @@ I like turning ambiguous problems into working systems - from real-time apps wit
 
 ---
 
-## Holopin Badges
+## <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" width="28"/> Holopin Badges
 
 <div align="center">
 <a href="https://holopin.io/@sakshamjaiswal2004">
@@ -115,7 +112,7 @@ I like turning ambiguous problems into working systems - from real-time apps wit
 
 ---
 
-## Connect With Me
+## <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" width="28"/> Connect With Me
 
 <p>
 <a href="https://sakshamjaiswal.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" /></a>
